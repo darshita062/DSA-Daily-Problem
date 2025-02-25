@@ -1,4 +1,4 @@
-def sortedSquares(self, nums):
+def sortedSquares(nums):
         l , r = 0 , len(nums)-1
         res = [0]*len(nums)
         for k in reversed(range(len(nums))):
