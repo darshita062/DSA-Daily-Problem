@@ -16,7 +16,7 @@ Each problem solution follows this format:
 
 Clone the repository:
 
-git clone https://github.com/darshita062/DSA-Daily-Problem
+git clone https://github.com/darshita062/DSA-Problem-Solving-With-Python-
 
 Navigate to the directory:
 
